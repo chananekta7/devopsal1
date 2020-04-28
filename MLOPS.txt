@@ -1,0 +1,10 @@
+Dataset Download kaggle : Sample dataset
+
+# MLOPS Day 16
+## Binary Classification
+* Any variable that has category is called as categorical variable.
+
+
+# Devops Assembly Line Day 2
+* Environment behind agile environment is Devops
+
